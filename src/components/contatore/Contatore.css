@@ -1,0 +1,11 @@
+button {
+    background-color: green;
+    font-size: 15px;
+    padding: 15px 30px;
+    color: white;
+    width: 120px;
+}
+.valore {
+    font-size:15px;
+    padding: 10px 12px;
+}
